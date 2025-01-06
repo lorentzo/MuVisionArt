@@ -17,3 +17,7 @@ VFX Graph Asset: https://github.com/lorentzo/MuVisionArt/tree/main/UnityArt/Asse
 VFX Graph Asset: https://github.com/lorentzo/MuVisionArt/tree/main/UnityArt/Assets/ArtAssets/CurlAttractor
 
 ![](Gallery/CurlAttractor.JPG)
+
+# Unity Art 3: SDF Attractor
+
+![](Gallery/SDFAttractor.JPG)
