@@ -421,7 +421,7 @@ MonoBehaviour:
   particlePerStripCount: 16
   needsComputeBounds: 0
   boundsMode: 0
-  m_Space: 1
+  m_Space: 0
 --- !u!114 &8926484042661617009
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -616,7 +616,7 @@ MonoBehaviour:
   particlePerStripCount: 1000
   needsComputeBounds: 0
   boundsMode: 0
-  m_Space: 1
+  m_Space: 0
 --- !u!114 &8926484042661617061
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5044,7 +5044,7 @@ MonoBehaviour:
         m_SerializableType: UnityEditor.VFX.Sphere, Unity.VisualEffectGraph.Editor,
           Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
       m_SerializableObject: '{"center":{"x":0.0,"y":0.0,"z":0.0},"radius":0.6600000262260437}'
-    m_Space: 1
+    m_Space: 0
   m_Property:
     name: Sphere
     m_serializedType:
@@ -7686,7 +7686,7 @@ MonoBehaviour:
   particlePerStripCount: 16
   needsComputeBounds: 0
   boundsMode: 0
-  m_Space: 1
+  m_Space: 0
 --- !u!114 &8926484042661617734
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10430,7 +10430,7 @@ MonoBehaviour:
         m_SerializableType: UnityEditor.VFX.Sphere, Unity.VisualEffectGraph.Editor,
           Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
       m_SerializableObject: '{"center":{"x":0.0,"y":0.0,"z":0.0},"radius":0.6600000262260437}'
-    m_Space: 1
+    m_Space: 0
   m_Property:
     name: Sphere
     m_serializedType:
@@ -11923,7 +11923,7 @@ MonoBehaviour:
   particlePerStripCount: 1000
   needsComputeBounds: 0
   boundsMode: 0
-  m_Space: 1
+  m_Space: 0
 --- !u!114 &8926484042661617866
 MonoBehaviour:
   m_ObjectHideFlags: 0
