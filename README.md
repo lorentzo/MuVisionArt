@@ -8,11 +8,6 @@ Dependencies:
 
 # Unity Art 1: Attractor lines
 
-V1:
-![](Gallery/UnityArt1.JPG)
+VFX Graph Asset: https://github.com/lorentzo/MuVisionArt/tree/main/UnityArt/Assets/ArtAssets/AttractorLines
 
-V2:
-![](Gallery/UnityArt1_2.JPG)
-
-V3:
-![](Gallery/UnityArt1_3.JPG)
+![](Gallery/AttractorLines.JPG)
