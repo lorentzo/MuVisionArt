@@ -14,4 +14,6 @@ VFX Graph Asset: https://github.com/lorentzo/MuVisionArt/tree/main/UnityArt/Asse
 
 # Unity Art 2: Curl Attractor
 
+VFX Graph Asset: https://github.com/lorentzo/MuVisionArt/tree/main/UnityArt/Assets/ArtAssets/CurlAttractor
+
 ![](Gallery/CurlAttractor.JPG)
