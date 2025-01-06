@@ -1,13 +1,17 @@
 # MuVisionArt
 
-3D Art for MuVision
+Several 3D art models made for MuVision.
 
 Dependencies:
 * Unity
 * VFX Graph
 
-# Unity Art 1: Attractor lines
+# Unity Art 1: Attractor Lines
 
 VFX Graph Asset: https://github.com/lorentzo/MuVisionArt/tree/main/UnityArt/Assets/ArtAssets/AttractorLines
 
 ![](Gallery/AttractorLines.JPG)
+
+# Unity Art 2: Curl Attractor
+
+![](Gallery/CurlAttractor.JPG)
