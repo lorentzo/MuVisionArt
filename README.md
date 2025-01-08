@@ -2,8 +2,13 @@
 
 Several 3D art models made for MuVision.
 
+MuVision:
+* https://muvision.com/
+* https://linktr.ee/muvision_en
+
 Dependencies:
-* Unity. Packages: https://github.com/lorentzo/MuVisionArt/tree/main/UnityArt/Packages
+* Unity 6. Packages: https://github.com/lorentzo/MuVisionArt/tree/main/UnityArt/Packages
+* Unity 2021. Packages: https://github.com/lorentzo/MuVisionArt/tree/main/UnityArt/Packages
 
 # Unity Art 1: Attractor Lines
 
